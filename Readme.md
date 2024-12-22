@@ -1,10 +1,15 @@
 
 # aasdk
 
-### Support project
+### What is this fork?
+This fork is simply an update of the original f1xpl's openauto's project librairy aasdk.
+Since last update a lot of librairies have received updates, which made the project unable to compile.
+This fork is an attempt to maintain this librairy.
+
+### Support original project
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9YH2QCXZ3YZXJ)
 
-For support of other platforms please contact me at f1xstudiopl@gmail.com
+For support of other platforms please contact the original developer at f1xstudiopl@gmail.com
 
 ### Brief description
 C++ object-oriented library containing implementation of core AndroidAuto(tm) functionalities needed to build headunit software.
